@@ -1,0 +1,902 @@
+[
+    {
+        "location": "Egmore near Mandaveli Street",
+        "issue": "stranded residents",
+        "description": "Stuck in Kodambakkam with urgent re",
+        "affected_people": 49,
+        "severity": "Low",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#ChennaiFlood #Urgent"
+    },
+    {
+        "location": "Besant Nagar near Lloyds Road",
+        "issue": "fallen trees",
+        "description": "Stuck in Royapettah with medical eme",
+        "affected_people": 24,
+        "severity": "High",
+        "additional_info": "Need immediate evacuation.",
+        "hashtags": "#ChennaiFlood #NeedHelp"
+    },
+    {
+        "location": "Royapettah near Lloyds Road",
+        "issue": "fallen trees",
+        "description": "Stuck in Poonamallee with urgent resc",
+        "affected_people": 28,
+        "severity": "Low",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#CycloneRelief #Stuck"
+    },
+    {
+        "location": "Washermanpet near OMR Road",
+        "issue": "urgent rescue needed",
+        "description": "Stuck in Porur with severe wind damas",
+        "affected_people": 22,
+        "severity": "High",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#NeedHelp #RescueNeeded"
+    },
+    {
+        "location": "Anna Nagar near Sterling Road",
+        "issue": "fallen trees",
+        "description": "Stuck in Anna Nagar with waterlogged",
+        "affected_people": 6,
+        "severity": "High",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#CycloneRelief #Stuck"
+    },
+    {
+        "location": "Saidapet near Mount Road",
+        "issue": "need evacuation",
+        "description": "Stuck in Porur with heavy rainfall. Con",
+        "affected_people": 34,
+        "severity": "High",
+        "additional_info": "Requesting food and water urgent!",
+        "hashtags": "#Stuck #ChennaiFlood"
+    },
+    {
+        "location": "Poonamallee near Besant Avenue",
+        "issue": "power outage",
+        "description": "Stuck in Egmore with road collapse. Cc",
+        "affected_people": 26,
+        "severity": "Low",
+        "additional_info": "Requesting food and water urgent!",
+        "hashtags": "#Stuck #Urgent"
+    },
+    {
+        "location": "Poonamallee near Arcot Road",
+        "issue": "no electricity",
+        "description": "Stuck in Porur with urgent rescue neet",
+        "affected_people": 37,
+        "severity": "Low",
+        "additional_info": "Need immediate evacuation.",
+        "hashtags": "#NeedHelp #Stuck"
+    },
+    {
+        "location": "Marina Beach near Raja Annamalai Pura",
+        "issue": "no electricity",
+        "description": "Stuck in Marina Beach with flooded str",
+        "affected_people": 8,
+        "severity": "High",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#CycloneRelief #Urgent"
+    },
+    {
+        "location": "Nungambakkam near Mount Road",
+        "issue": "power outage",
+        "description": "Stuck in Guindy with blocked roads. Cc",
+        "affected_people": 8,
+        "severity": "High",
+        "additional_info": "Requesting food and water urgent!",
+        "hashtags": "#CycloneRelief #Stuck"
+    },
+    {
+        "location": "Mylapore near Dr. Radhakrishnan Salai",
+        "issue": "no drinking water",
+        "description": "Stuck in Kodambakkam with road collz",
+        "affected_people": 36,
+        "severity": "High",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#CycloneRelief #Stuck"
+    },
+    {
+        "location": "Saidapet near Raja Annamalai Puram",
+        "issue": "no electricity",
+        "description": "Stuck in Mylapore with no drinking wa",
+        "affected_people": 45,
+        "severity": "Low",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#Stuck #ChennaiFlood"
+    },
+    {
+        "location": "Egmore near Raja Annamalai Puram",
+        "issue": "urgent rescue needed",
+        "description": "Stuck in Perungudi with power outage",
+        "affected_people": 36,
+        "severity": "Low",
+        "additional_info": "Need immediate evacuation.",
+        "hashtags": "#CycloneRelief #RescueNeeded"
+    },
+    {
+        "location": "Perungudi near Raja Annamalai Puram",
+        "issue": "medical emergency",
+        "description": "Stuck in Adyar with heavy rainfall. Cor",
+        "affected_people": 45,
+        "severity": "Low",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#RescueNeeded #CycloneRelief"
+    },
+    {
+        "location": "Thiruvanmiyur near Poonamallee High F",
+        "issue": "road collapse",
+        "description": "Stuck in Porur with no drinking water.",
+        "affected_people": 46,
+        "severity": "Moderate",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#Stuck #NeedHelp"
+    },
+    {
+        "location": "Guindy near Cathedral Road",
+        "issue": "fallen trees",
+        "description": "Stuck in Marina Beach with food short",
+        "affected_people": 48,
+        "severity": "Moderate",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#Urgent #ChennaiFlood"
+    },
+    {
+        "location": "Nungambakkam near Arcot Road",
+        "issue": "road collapse",
+        "description": "Stuck in Washermanpet with road coll",
+        "affected_people": 25,
+        "severity": "Low",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#Stuck #NeedHelp"
+    },
+    {
+        "location": "Kodambakkam near Kilpauk Garden Roza",
+        "issue": "damaged vehicles",
+        "description": "Stuck in Kodambakkam with fallen tre",
+        "affected_people": 26,
+        "severity": "High",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#Urgent #Stuck"
+    },
+    {
+        "location": "Nungambakkam near Ritchie Street",
+        "issue": "flooded streets",
+        "description": "Stuck in Mylapore with road collapse. |",
+        "affected_people": 37,
+        "severity": "High",
+        "additional_info": "Requesting food and water urgent!",
+        "hashtags": "#CycloneRelief #Stuck"
+    },
+    {
+        "location": "Adyar near Ritchie Street",
+        "issue": "severe wind damage",
+        "description": "Stuck in Kotturpuram with sewage ove",
+        "affected_people": 38,
+        "severity": "Moderate",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#Stuck #CycloneRelief"
+    },
+    {
+        "location": "Porur near Greams Road",
+        "issue": "medical emergency",
+        "description": "Stuck in Porur with landslide risk. Con",
+        "affected_people": 7,
+        "severity": "Low",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#NeedHelp #RescueNeeded"
+    },
+    {
+        "location": "Poonamallee near Cathedral Road",
+        "issue": "stranded residents",
+        "description": "Stuck in Kotturpuram with no electri",
+        "affected_people": 23,
+        "severity": "Low",
+        "additional_info": "Need immediate evacuation.",
+        "hashtags": "#ChennaiFlood #NeedHelp"
+    },
+    {
+        "location": "Besant Nagar near Raja Annamalai Pura",
+        "issue": "need evacuation",
+        "description": "Stuck in Nungambakkam with urgent r",
+        "affected_people": 11,
+        "severity": "High",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#NeedHelp #Urgent"
+    },
+    {
+        "location": "Adyar near Mandaveli Street",
+        "issue": "need evacuation",
+        "description": "Stuck in Porur with damaged vehicles.",
+        "affected_people": 42,
+        "severity": "High",
+        "additional_info": "Need immediate evacuation.",
+        "hashtags": "#CycloneRelief #RescueNeeded"
+    },
+    {
+        "location": "Guindy near Lloyds Road",
+        "issue": "sewage overflow",
+        "description": "Stuck in T. Nagar with road collapse. C",
+        "affected_people": 19,
+        "severity": "High",
+        "additional_info": "Requesting food and water urgent!",
+        "hashtags": "#Urgent #CycloneRelief"
+    },
+    {
+        "location": "Anna Nagar near Marina Loop Road",
+        "issue": "need evacuation",
+        "description": "Stuck in Besant Nagar with sewage ov",
+        "affected_people": 40,
+        "severity": "Low",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#NeedHelp #Stuck"
+    },
+    {
+        "location": "Alwarpet near Chamiers Road",
+        "issue": "need evacuation",
+        "description": "Stuck in Velachery with medical emerg",
+        "affected_people": 39,
+        "severity": "Moderate",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#Stuck #CycloneRelief"
+    },
+    {
+        "location": "Adyar near OMR Road",
+        "issue": "damaged vehicles",
+        "description": "Stuck in Thiruvanmiyur with no mobile",
+        "affected_people": 11,
+        "severity": "High",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#Stuck #NeedHelp"
+    },
+    {
+        "location": "Guindy near Chamiers Road",
+        "issue": "damaged vehicles",
+        "description": "Stuck in Velachery with landslide risk.",
+        "affected_people": 13,
+        "severity": "Moderate",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#Urgent #NeedHelp"
+    },
+    {
+        "location": "Kotturpuram near Dr. Radhakrishnan Sa",
+        "issue": "power outage",
+        "description": "Stuck in Besant Nagar with urgent res",
+        "affected_people": 27,
+        "severity": "Low",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#Urgent #RescueNeeded"
+    },
+    {
+        "location": "Mylapore near Lloyds Road",
+        "issue": "fallen trees",
+        "description": "Stuck in T. Nagar with no electricity. C",
+        "affected_people": 44,
+        "severity": "Low",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#ChennaiFlood #RescueNeeded"
+    },
+    {
+        "location": "Perungudi near Greenways Road",
+        "issue": "food shortage",
+        "description": "Stuck in Anna Nagar with flooded stree",
+        "affected_people": 28,
+        "severity": "Moderate",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#Stuck #NeedHelp"
+    },
+    {
+        "location": "Adyar near Lloyds Road",
+        "issue": "heavy rainfall",
+        "description": "Stuck in Nungambakkam with no mobi",
+        "affected_people": 8,
+        "severity": "Moderate",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#CycloneRelief #RescueNeeded"
+    },
+    {
+        "location": "Royapettah near Besant Avenue",
+        "issue": "damaged vehicles",
+        "description": "Stuck in Kotturpuram with damaged v",
+        "affected_people": 33,
+        "severity": "Low",
+        "additional_info": "Need immediate evacuation.",
+        "hashtags": "#Stuck #ChennaiFlood"
+    },
+    {
+        "location": "Saidapet near ECR Road",
+        "issue": "need evacuation",
+        "description": "Stuck in Nungambakkam with power o",
+        "affected_people": 44,
+        "severity": "High",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#ChennaiFlood #Stuck"
+    },
+    {
+        "location": "Marina Beach near Mount Road",
+        "issue": "no electricity",
+        "description": "Stuck in Thiruvanmiyur with fallen tree",
+        "affected_people": 13,
+        "severity": "Moderate",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#Urgent #ChennaiFlood"
+    },
+    {
+        "location": "Alwarpet near Nungambakkam High Ro:",
+        "issue": "road collapse",
+        "description": "Stuck in Adyar with medical emergenc",
+        "affected_people": 17,
+        "severity": "Moderate",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#NeedHelp #Stuck"
+    },
+    {
+        "location": "Royapettah near Dr. Radhakrishnan Sal:",
+        "issue": "no drinking water",
+        "description": "Stuck in Perungudi with power outage",
+        "affected_people": 20,
+        "severity": "High",
+        "additional_info": "Need immediate evacuation.",
+        "hashtags": "#Urgent #ChennaiFlood"
+    },
+    {
+        "location": "Alwarpet near Mount Road",
+        "issue": "no drinking water",
+        "description": "Stuck in Marina Beach with heavy rain",
+        "affected_people": 37,
+        "severity": "High",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#ChennaiFlood #Urgent"
+    },
+    {
+        "location": "Marina Beach near Poonamallee High R\u00ab",
+        "issue": "flooded streets",
+        "description": "Stuck in Kotturpuram with landslide ri",
+        "affected_people": 41,
+        "severity": "Low",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#CycloneRelief #RescueNeeded"
+    },
+    {
+        "location": "Marina Beach near Mandaveli Street",
+        "issue": "medical emergency",
+        "description": "Stuck in Anna Nagar with damaged vel",
+        "affected_people": 11,
+        "severity": "Moderate",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#RescueNeeded #CycloneRelief"
+    },
+    {
+        "location": "Perungudi near Greenways Road",
+        "issue": "flooded streets",
+        "description": "Stuck in Kotturpuram with need evacu",
+        "affected_people": 47,
+        "severity": "Moderate",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#Stuck #NeedHelp"
+    },
+    {
+        "location": "Mylapore near Raja Annamalai Puram",
+        "issue": "road collapse",
+        "description": "Stuck in Marina Beach with flooded str",
+        "affected_people": 36,
+        "severity": "Low",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#ChennaiFlood #Stuck"
+    },
+    {
+        "location": "Marina Beach near Kilpauk Garden Roac",
+        "issue": "fallen trees",
+        "description": "Stuck in Egmore with medical emerger",
+        "affected_people": 3,
+        "severity": "High",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#RescueNeeded #ChennaiFlood"
+    },
+    {
+        "location": "Egmore near Arcot Road",
+        "issue": "no mobile network",
+        "description": "Stuck in Saidapet with sewage overflo",
+        "affected_people": 4,
+        "severity": "Low",
+        "additional_info": "Need immediate evacuation.",
+        "hashtags": "#Stuck #RescueNeeded"
+    },
+    {
+        "location": "Anna Nagar near Dr. Radhakrishnan Sal:",
+        "issue": "damaged vehicles",
+        "description": "Stuck in Royapettah with flooded stree",
+        "affected_people": 19,
+        "severity": "Moderate",
+        "additional_info": "Requesting food and water urgent!",
+        "hashtags": "#RescueNeeded #CycloneRelief"
+    },
+    {
+        "location": "Marina Beach near Nungambakkam Hig!",
+        "issue": "food shortage",
+        "description": "Stuck in Thiruvanmiyur with power out",
+        "affected_people": 17,
+        "severity": "Low",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#Urgent #ChennaiFlood"
+    },
+    {
+        "location": "Poonamallee near Chamiers Road",
+        "issue": "no mobile network",
+        "description": "Stuck in Porur with food shortage. Con",
+        "affected_people": 14,
+        "severity": "Moderate",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#RescueNeeded #Urgent"
+    },
+    {
+        "location": "Perungudi near Sterling Road",
+        "issue": "need evacuation",
+        "description": "Stuck in Alwarpet with food shortage.",
+        "affected_people": 9,
+        "severity": "Moderate",
+        "additional_info": "Need immediate evacuation.",
+        "hashtags": "#ChennaiFlood #RescueNeeded"
+    },
+    {
+        "location": "Anna Nagar near Kilpauk Garden Road",
+        "issue": "road collapse",
+        "description": "Stuck in Kotturpuram with landslide ri",
+        "affected_people": 27,
+        "severity": "High",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#Urgent #ChennaiFlood"
+    },
+    {
+        "location": "Guindy near Anna Salai",
+        "issue": "damaged vehicles",
+        "description": "Stuck in Kotturpuram with damaged v",
+        "affected_people": 41,
+        "severity": "High",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#Urgent #ChennaiFlood"
+    },
+    {
+        "location": "Mylapore near Greenways Road",
+        "issue": "fallen trees",
+        "description": "Stuck in Guindy with no mobile networ",
+        "affected_people": 44,
+        "severity": "Moderate",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#Urgent #NeedHelp"
+    },
+    {
+        "location": "Nungambakkam near Greenways Road",
+        "issue": "fallen trees",
+        "description": "Stuck in Marina Beach with blocked ro",
+        "affected_people": 23,
+        "severity": "Low",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#Stuck #NeedHelp"
+    },
+    {
+        "location": "Egmore near Mandaveli Street",
+        "issue": "waterlogged houses",
+        "description": "Stuck in Saidapet with no drinking wat",
+        "affected_people": 42,
+        "severity": "Low",
+        "additional_info": "Need immediate evacuation.",
+        "hashtags": "#NeedHelp #RescueNeeded"
+    },
+    {
+        "location": "Porur near Kilpauk Garden Road",
+        "issue": "urgent rescue needed",
+        "description": "Stuck in Egmore with no electricity. Co",
+        "affected_people": 37,
+        "severity": "High",
+        "additional_info": "Requesting food and water urgent!",
+        "hashtags": "#RescueNeeded #Stuck"
+    },
+    {
+        "location": "Anna Nagar near Mandaveli Street",
+        "issue": "need evacuation",
+        "description": "Stuck in Anna Nagar with no electricity",
+        "affected_people": 26,
+        "severity": "Low",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#RescueNeeded #Urgent"
+    },
+    {
+        "location": "T. Nagar near OMR Road",
+        "issue": "no drinking water",
+        "description": "Stuck in Kodambakkam with heavy rai",
+        "affected_people": 5,
+        "severity": "Low",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#Stuck #ChennaiFlood"
+    },
+    {
+        "location": "Besant Nagar near Nungambakkam Hig|",
+        "issue": "heavy rainfall",
+        "description": "Stuck in Perungudi with no mobile net",
+        "affected_people": 31,
+        "severity": "Low",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#RescueNeeded #ChennaiFlood"
+    },
+    {
+        "location": "Besant Nagar near Raja Annamalai Pura",
+        "issue": "need evacuation",
+        "description": "Stuck in Egmore with flooded streets. |",
+        "affected_people": 40,
+        "severity": "High",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#ChennaiFlood #RescueNeeded"
+    },
+    {
+        "location": "Velachery near Anna Salai",
+        "issue": "sewage overflow",
+        "description": "Stuck in Royapettah with no electricity",
+        "affected_people": 18,
+        "severity": "High",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#Urgent #CycloneRelief"
+    },
+    {
+        "location": "Thiruvanmiyur near Poonamallee High F",
+        "issue": "heavy rainfall",
+        "description": "Stuck in Alwarpet with damaged vehic",
+        "affected_people": 47,
+        "severity": "Moderate",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#CycloneRelief #Stuck"
+    },
+    {
+        "location": "Mylapore near Kilpauk Garden Road",
+        "issue": "severe wind damage",
+        "description": "Stuck in Guindy with flooded streets. (",
+        "affected_people": 32,
+        "severity": "Low",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#Urgent #NeedHelp"
+    },
+    {
+        "location": "Besant Nagar near Nungambakkam Hig|",
+        "issue": "medical emergency",
+        "description": "Stuck in Anna Nagar with no mobile ne",
+        "affected_people": 32,
+        "severity": "Moderate",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#NeedHelp #ChennaiFlood"
+    },
+    {
+        "location": "Egmore near Greams Road",
+        "issue": "damaged vehicles",
+        "description": "Stuck in Thiruvanmiyur with medical e",
+        "affected_people": 20,
+        "severity": "High",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#NeedHelp #Urgent"
+    },
+    {
+        "location": "Washermanpet near Raja Annamalai Pui",
+        "issue": "fallen trees",
+        "description": "Stuck in Porur with fallen trees. Condi",
+        "affected_people": 14,
+        "severity": "Low",
+        "additional_info": "Need immediate evacuation.",
+        "hashtags": "#NeedHelp #RescueNeeded"
+    },
+    {
+        "location": "Velachery near Mount Road",
+        "issue": "flooded streets",
+        "description": "Stuck in Anna Nagar with flooded stree",
+        "affected_people": 17,
+        "severity": "High",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#ChennaiFlood #CycloneRelief"
+    },
+    {
+        "location": "Thiruvanmiyur near Marina Loop Road",
+        "issue": "road collapse",
+        "description": "Stuck in Velachery with heavy rainfall.",
+        "affected_people": 20,
+        "severity": "High",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#CycloneRelief #Stuck"
+    },
+    {
+        "location": "Thiruvanmiyur near Greenways Road",
+        "issue": "sewage overflow",
+        "description": "Stuck in Marina Beach with no mobile |",
+        "affected_people": 19,
+        "severity": "Low",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#Urgent #ChennaiFlood"
+    },
+    {
+        "location": "Mylapore near Besant Avenue",
+        "issue": "medical emergency",
+        "description": "Stuck in Mylapore with medical emerg",
+        "affected_people": 30,
+        "severity": "High",
+        "additional_info": "Need immediate evacuation.",
+        "hashtags": "#Stuck #NeedHelp"
+    },
+    {
+        "location": "Kodambakkam near Chamiers Road",
+        "issue": "power outage",
+        "description": "Stuck in Washermanpet with damaged",
+        "affected_people": 45,
+        "severity": "Moderate",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#CycloneRelief #Urgent"
+    },
+    {
+        "location": "Adyar near Besant Avenue",
+        "issue": "fallen trees",
+        "description": "Stuck in Marina Beach with sewage ov",
+        "affected_people": 28,
+        "severity": "Low",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#RescueNeeded #NeedHelp"
+    },
+    {
+        "location": "Adyar near Cathedral Road",
+        "issue": "urgent rescue needed",
+        "description": "Stuck in Nungambakkam with landslid",
+        "affected_people": 16,
+        "severity": "Low",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#ChennaiFlood #NeedHelp"
+    },
+    {
+        "location": "Egmore near Mount Road",
+        "issue": "food shortage",
+        "description": "Stuck in Alwarpet with no drinking wat",
+        "affected_people": 40,
+        "severity": "Moderate",
+        "additional_info": "Requesting food and water urgent!",
+        "hashtags": "#RescueNeeded #Urgent"
+    },
+    {
+        "location": "Thiruvanmiyur near Ritchie Street",
+        "issue": "severe wind damage",
+        "description": "Stuck in Nungambakkam with landslid",
+        "affected_people": 40,
+        "severity": "Low",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#CycloneRelief #ChennaiFlood"
+    },
+    {
+        "location": "Nungambakkam near Arcot Road",
+        "issue": "sewage overflow",
+        "description": "Stuck in Anna Nagar with sewage over",
+        "affected_people": 26,
+        "severity": "Moderate",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#ChennaiFlood #Urgent"
+    },
+    {
+        "location": "Royapettah near Mandaveli Street",
+        "issue": "severe wind damage",
+        "description": "Stuck in Royapettah with road collapses",
+        "affected_people": 32,
+        "severity": "Low",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#Urgent #NeedHelp"
+    },
+    {
+        "location": "Marina Beach near Lloyds Road",
+        "issue": "no drinking water",
+        "description": "Stuck in Alwarpet with sewage overflo",
+        "affected_people": 28,
+        "severity": "Moderate",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#Stuck #ChennaiFlood"
+    },
+    {
+        "location": "Egmore near Mandaveli Street",
+        "issue": "no electricity",
+        "description": "Stuck in Kotturpuram with waterlogge",
+        "affected_people": 28,
+        "severity": "High",
+        "additional_info": "Requesting food and water urgent!",
+        "hashtags": "#NeedHelp #CycloneRelief"
+    },
+    {
+        "location": "Marina Beach near Marina Loop Road",
+        "issue": "medical emergency",
+        "description": "Stuck in Perungudi with no drinking wi",
+        "affected_people": 33,
+        "severity": "Moderate",
+        "additional_info": "Requesting food and water urgent!",
+        "hashtags": "#Stuck #NeedHelp"
+    },
+    {
+        "location": "Guindy near Kilpauk Garden Road",
+        "issue": "fallen trees",
+        "description": "Stuck in Kotturpuram with no drinking",
+        "affected_people": 50,
+        "severity": "High",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#RescueNeeded #Stuck"
+    },
+    {
+        "location": "Kodambakkam near Marina Loop Road",
+        "issue": "urgent rescue needed",
+        "description": "Stuck in Kotturpuram with no drinking",
+        "affected_people": 40,
+        "severity": "Low",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#Stuck #NeedHelp"
+    },
+    {
+        "location": "Perungudi near OMR Road",
+        "issue": "power outage",
+        "description": "Stuck in Saidapet with sewage overflo",
+        "affected_people": 34,
+        "severity": "High",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#Stuck #NeedHelp"
+    },
+    {
+        "location": "Saidapet near Nungambakkam High Roz",
+        "issue": "food shortage",
+        "description": "Stuck in Anna Nagar with blocked roac",
+        "affected_people": 37,
+        "severity": "Low",
+        "additional_info": "Requesting food and water urgent!",
+        "hashtags": "#ChennaiFlood #Urgent"
+    },
+    {
+        "location": "Marina Beach near Besant Avenue",
+        "issue": "flooded streets",
+        "description": "Stuck in Kodambakkam with no electri",
+        "affected_people": 21,
+        "severity": "Low",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#Urgent #ChennaiFlood"
+    },
+    {
+        "location": "Alwarpet near Poonamallee High Road",
+        "issue": "severe wind damage",
+        "description": "Stuck in Poonamallee with landslide ri",
+        "affected_people": 18,
+        "severity": "Moderate",
+        "additional_info": "Requesting food and water urgent!",
+        "hashtags": "#RescueNeeded #Urgent"
+    },
+    {
+        "location": "Saidapet near ECR Road",
+        "issue": "urgent rescue needed",
+        "description": "Stuck in T. Nagar with blocked roads. (\u00a2",
+        "affected_people": 36,
+        "severity": "Moderate",
+        "additional_info": "Requesting food and water urgent!",
+        "hashtags": "#CycloneRelief #Urgent"
+    },
+    {
+        "location": "Royapettah near Greenways Road",
+        "issue": "power outage",
+        "description": "Stuck in Perungudi with blocked roads",
+        "affected_people": 35,
+        "severity": "Moderate",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#ChennaiFlood #RescueNeeded"
+    },
+    {
+        "location": "Egmore near Anna Salai",
+        "issue": "no drinking water",
+        "description": "Stuck in Egmore with no electricity. Co",
+        "affected_people": 2,
+        "severity": "High",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#RescueNeeded #Stuck"
+    },
+    {
+        "location": "Thiruvanmiyur near ECR Road",
+        "issue": "landslide risk",
+        "description": "Stuck in Adyar with severe wind dama",
+        "affected_people": 40,
+        "severity": "Moderate",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#RescueNeeded #Stuck"
+    },
+    {
+        "location": "T. Nagar near Ritchie Street",
+        "issue": "heavy rainfall",
+        "description": "Stuck in Egmore with urgent rescue ne",
+        "affected_people": 5,
+        "severity": "High",
+        "additional_info": "Stuck with no power or network ac",
+        "hashtags": "#ChennaiFlood #CycloneRelief"
+    },
+    {
+        "location": "Washermanpet near Anna Salai",
+        "issue": "power outage",
+        "description": "Stuck in Washermanpet with medical \u00a2",
+        "affected_people": 10,
+        "severity": "Moderate",
+        "additional_info": "Need immediate evacuation.",
+        "hashtags": "#Stuck #Urgent"
+    },
+    {
+        "location": "Nungambakkam near Besant Avenue",
+        "issue": "flooded streets",
+        "description": "Stuck in Saidapet with no electricity. C",
+        "affected_people": 27,
+        "severity": "Moderate",
+        "additional_info": "Lost contact with family, seeking h",
+        "hashtags": "#Urgent #RescueNeeded"
+    },
+    {
+        "location": "Alwarpet near Kilpauk Garden Road",
+        "issue": "waterlogged houses",
+        "description": "Stuck in Marina Beach with power out",
+        "affected_people": 32,
+        "severity": "Low",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#CycloneRelief #ChennaiFlood"
+    },
+    {
+        "location": "Mylapore near Greams Road",
+        "issue": "no electricity",
+        "description": "Stuck in Poonamallee with heavy rainf",
+        "affected_people": 11,
+        "severity": "High",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#Urgent #CycloneRelief"
+    },
+    {
+        "location": "Guindy near Poonamallee High Road",
+        "issue": "damaged vehicles",
+        "description": "Stuck in Perungudi with no electricity.",
+        "affected_people": 35,
+        "severity": "Low",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#ChennaiFlood #CycloneRelief"
+    },
+    {
+        "location": "Kotturpuram near Cathedral Road",
+        "issue": "no electricity",
+        "description": "Stuck in Mylapore with food shortage.",
+        "affected_people": 18,
+        "severity": "Low",
+        "additional_info": "Medical assistance required.",
+        "hashtags": "#NeedHelp #Urgent"
+    },
+    {
+        "location": "Saidapet near Kilpauk Garden Road",
+        "issue": "severe wind damage",
+        "description": "Stuck in Porur with urgent rescue neet",
+        "affected_people": 15,
+        "severity": "Low",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#Urgent #RescueNeeded"
+    },
+    {
+        "location": "Saidapet near Nungambakkam High Roz",
+        "issue": "fallen trees",
+        "description": "Stuck in Saidapet with no electricity. C",
+        "affected_people": 49,
+        "severity": "Low",
+        "additional_info": "Requesting food and water urgent!",
+        "hashtags": "#CycloneRelief #Urgent"
+    },
+    {
+        "location": "Perungudi near Dr. Radhakrishnan Salai",
+        "issue": "need evacuation",
+        "description": "Stuck in Washermanpet with urgent re",
+        "affected_people": 47,
+        "severity": "Low",
+        "additional_info": "Need immediate evacuation.",
+        "hashtags": "#ChennaiFlood #RescueNeeded"
+    },
+    {
+        "location": "Kotturpuram near Ritchie Street",
+        "issue": "blocked roads",
+        "description": "Stuck in Saidapet with need evacuatio",
+        "affected_people": 10,
+        "severity": "Moderate",
+        "additional_info": "Flood water rising, urgent help nee",
+        "hashtags": "#Stuck #Urgent"
+    }
+]
