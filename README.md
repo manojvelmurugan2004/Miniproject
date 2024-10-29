@@ -10,15 +10,15 @@ This project aims to create an Intelligent Real-Time Disaster Response Dashboard
 **Data Extraction and Preprocessing:**
 1) Used Python’s pytesseract library to extract text from social media images.
 2) Parsed and structured extracted text data into JSON format, with fields like location, issue, description, severity, and affected people.
-3) 
+   
 **Data Storage and Management:**
 1) Stored structured data in MongoDB for efficient retrieval and analysis.
 2) Ensured data integrity and easy access for visualization and further analysis.
-3) 
+   
 **Data Analysis:**
 1) Analyzed data completeness and consistency to ensure reliability for decision-making.
 2) Created charts to represent data quality, such as completeness and unique counts per field.
-3) 
+   
 **Dashboard Creation and Visualization:**
 1) Used Power BI to develop an interactive dashboard displaying key insights, including:
    1) **Map visualization** for affected locations.
